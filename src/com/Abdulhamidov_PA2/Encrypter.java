@@ -1,9 +1,9 @@
-package com.Abdulhamidov_PA4;
+package com.Abdulhamidov_PA2;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Problem1 {
+public class Encrypter {
 
     public static void main(String[] args) {
 
